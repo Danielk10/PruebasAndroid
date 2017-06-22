@@ -5,6 +5,8 @@ import android.os.*;
 
 public class MainActivity extends Activity 
 {
+	
+	private int f;
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
