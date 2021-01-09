@@ -22,7 +22,7 @@ public class MainActivity extends Activity
 		Lienzo(Activity actividad)
 		{
 			super(actividad);
-			
+			  
 			
 			
 		}
